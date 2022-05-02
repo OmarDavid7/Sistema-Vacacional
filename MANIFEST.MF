@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Omar Mosquera
+Main-Class: Bienvenida
+X-COMMENT: Proyecto final de java basico
